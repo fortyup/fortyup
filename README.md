@@ -1,24 +1,23 @@
+<!-- omit in toc -->
 # Salut, je suis fortyup ! 👋
 
 Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionné par le développement web et les technologies modernes. Ici, vous trouverez une collection de mes projets.
 
+<!-- omit in toc -->
 ## Sommaire
-
-- [Salut, je suis fortyup ! 👋](#salut-je-suis-fortyup--)
-  - [Sommaire](#sommaire)
-  - [À Propos de Moi 📚](#à-propos-de-moi-)
-  - [Technologies utilisées 💻](#technologies-utilisées-)
-  - [Mes Différents Projets 🚀](#mes-différents-projets-)
-  - [Autres contributions 🌐](#autres-contributions-)
-  - [Compétences Acquises 🧠](#compétences-acquises-)
-    - [Développement Web](#développement-web)
-    - [Gestion de Projet et Collaboration](#gestion-de-projet-et-collaboration)
-    - [Développement Mobile](#développement-mobile)
-    - [Outils et Environnements](#outils-et-environnements)
-    - [Méthodologies de Travail](#méthodologies-de-travail)
-  - [Mes Statistiques GitHub 📈](#mes-statistiques-github-)
-  - [Contact 📫](#contact-)
-  - [Suivez-Moi 🌍](#suivez-moi-)
+- [À Propos de Moi 📚](#à-propos-de-moi-)
+- [Technologies utilisées 💻](#technologies-utilisées-)
+- [Mes Différents Projets 🚀](#mes-différents-projets-)
+- [Autres contributions 🌐](#autres-contributions-)
+- [Compétences Acquises 🧠](#compétences-acquises-)
+  - [Développement Web](#développement-web)
+  - [Gestion de Projet et Collaboration](#gestion-de-projet-et-collaboration)
+  - [Développement Mobile](#développement-mobile)
+  - [Outils et Environnements](#outils-et-environnements)
+  - [Méthodologies de Travail](#méthodologies-de-travail)
+- [Mes Statistiques GitHub 📈](#mes-statistiques-github-)
+- [Contact 📫](#contact-)
+- [Suivez-Moi 🌍](#suivez-moi-)
 
 
 ## À Propos de Moi 📚
