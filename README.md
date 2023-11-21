@@ -10,11 +10,11 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionn�
 - [Mes Différents Projets 🚀](#mes-différents-projets-)
 - [Autres contributions 🌐](#autres-contributions-)
 - [Compétences Acquises 🧠](#compétences-acquises-)
-  - [Développement Web](#développement-web)
-  - [Gestion de Projet et Collaboration](#gestion-de-projet-et-collaboration)
-  - [Développement Mobile](#développement-mobile)
-  - [Outils et Environnements](#outils-et-environnements)
-  - [Méthodologies de Travail](#méthodologies-de-travail)
+  - [**Développement Web**](#développement-web)
+  - [**Gestion de Projet et Collaboration**](#gestion-de-projet-et-collaboration)
+  - [**Développement Mobile**](#développement-mobile)
+  - [**Outils et Environnements**](#outils-et-environnements)
+  - [**Méthodologies de Travail**](#méthodologies-de-travail)
 - [Mes Statistiques GitHub 📈](#mes-statistiques-github-)
 - [Contact 📫](#contact-)
 - [Suivez-Moi 🌍](#suivez-moi-)
@@ -58,37 +58,51 @@ J'ai aussi contribué à des projets tel que :
 
 ## Compétences Acquises 🧠
 
-Au fil de mon parcours d'étudiant en BUT informatique, j'ai pu acquérir diverses compétences dans les domaines suivants :
+Au cours de mon parcours en BUT informatique, j'ai développé un ensemble de compétences techniques et professionnelles significatives, alliant à la fois des "hard skills" et des "soft skills". Voici un aperçu de mes principales compétences :
 
-### Développement Web
+### **Développement Web**
 
-- Conception et développement de sites web dynamiques et responsifs.
-- Utilisation avancée d'HTML, CSS, JavaScript.
-- Expérience avec des frameworks front-end tels que React.js.
-- Développement back-end avec Node.js, Symfony, et Laravel.
-- Intégration de bases de données SQL.
-- Mise en œuvre de fonctionnalités e-commerce avec Adobe Commerce.
+- **Conception et Développement :** Création de sites web dynamiques et responsifs.
+- **Langages Front-End :** Maîtrise avancée d'HTML, CSS, JavaScript.
+- **Frameworks Front-End :** Expérience pratique avec React.js.
+- **Développement Back-End :** Compétences en Node.js, Symfony, et Laravel.
+- **Base de Données :** Intégration de bases de données SQL.
+- **E-commerce :** Mise en œuvre de fonctionnalités e-commerce avec Adobe Commerce.
 
-### Gestion de Projet et Collaboration
+### **Gestion de Projet et Collaboration**
 
-- Utilisation efficace de Git pour le versionnage de code.
-- Collaboration au sein d'équipes de développement.
+- **Gestion de Version avec Git :** Utilisation efficace de Git pour le versionnage de code.
+- **Travail en Équipe :** Collaboration active au sein d'équipes de développement.
 
-### Développement Mobile
+### **Développement Mobile**
 
-- Création d'applications mobiles avec Kotlin et Xamarin.
+- **Création d'Applications Mobiles :** Développement d'applications mobiles avec Kotlin et Xamarin.
 
-### Outils et Environnements
+### **Outils et Environnements**
 
-- Utilisation de Docker pour la gestion de conteneurs.
-- Expérience avec des environnements de développement sous Linux, Windows et MacOS.
+- **Conteneurisation avec Docker :** Utilisation de Docker pour la gestion efficace de conteneurs.
+- **Polyvalence des Environnements :** Expérience avec des environnements de développement sous Linux, Windows et MacOS.
 
-### Méthodologies de Travail
+### **Méthodologies de Travail**
 
-- Pratique des méthodologies agiles.
-- Forte orientation vers les bonnes pratiques de codage.
+- **Méthodologies Agiles :** Pratique des méthodologies agiles pour une gestion de projet efficace.
+- **Bonnes Pratiques de Codage :** Forte orientation vers les bonnes pratiques de codage.
 
-Ces compétences me permettent de mener à bien des projets web complexes et de continuer à apprendre et à évoluer dans le domaine du développement informatique.
+Ces compétences techniques et professionnelles me permettent d'être un atout dans divers contextes :
+
+- **Développement de Sites Web Professionnels :** Je suis capable de créer des sites web professionnels, en utilisant des technologies modernes et en suivant les bonnes pratiques de codage.
+
+- **Projets de Gestion Collaborative :** Mon experience avec les méthodologies agiles et les outils de gestion de version me permet de contribuer efficacement à des projets de développement collaboratif.
+
+- **Création d'Applications Mobiles Innovantes :** Mes compétences en développement mobile me permettent de créer des applications mobiles innovantes, en utilisant des technologies modernes et en suivant les bonnes pratiques de codage.
+
+- **Mise en Place de Solutions Conteneurisées :** L'utilisation de Docker me permet de mettre en place des solutions conteneurisées efficaces, favorisant la portabilité et la scalabilité.
+
+- **Adaptabilité à Divers Environnements de Développement :** Ma polyvalence avec différents environnements de développement me permet de m'adapter rapidement à des contextes variés, qu'il s'agisse de systèmes d'exploitation ou de stacks technologiques spécifiques.
+
+- **Gestion Agile de Projets Informatiques :** En suivant les méthodologies agiles, je connais les enjeux et les bonnes pratiques de la gestion de projets informatiques.
+
+Ces compétences font de moi un développeur web polyvalent, capable de s'adapter à divers contextes et de contribuer efficacement à des projets de développement web.
 
 ## Mes Statistiques GitHub 📈
 
