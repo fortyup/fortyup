@@ -1,122 +1,84 @@
-<!-- omit in toc -->
-# Salut, je suis fortyup ! 👋
+# Hi, I'm fortyup! 👋
 
-Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionné par le développement web et les technologies modernes. Ici, vous trouverez une collection de mes projets.
+Welcome to my GitHub profile! I am currently pursuing a Master's degree in Computer Science at the [University of Bordeaux](https://www.u-bordeaux.fr/), with a strong passion for web development, mobile applications, and modern software engineering. Below, you’ll find a curated list of my projects, contributions, and skills. Feel free to explore and reach out for collaboration opportunities.
 
-<!-- omit in toc -->
-## Sommaire
-- [À Propos de Moi 📚](#à-propos-de-moi-)
-- [Technologies utilisées 💻](#technologies-utilisées-)
-- [Mes Différents Projets 🚀](#mes-différents-projets-)
-- [Autres contributions 🌐](#autres-contributions-)
-- [Compétences Acquises 🧠](#compétences-acquises-)
-  - [**Développement Web**](#développement-web)
-  - [**Gestion de Projet et Collaboration**](#gestion-de-projet-et-collaboration)
-  - [**Développement Mobile**](#développement-mobile)
-  - [**Outils et Environnements**](#outils-et-environnements)
-  - [**Méthodologies de Travail**](#méthodologies-de-travail)
-- [Mes Statistiques GitHub 📈](#mes-statistiques-github-)
+## Table of Contents
+- [About Me 📚](#about-me-)
+- [Technologies Used 💻](#technologies-used-)
+- [Projects 🚀](#projects-)
+- [Contributions 🌐](#contributions-)
+- [GitHub Stats 📈](#github-stats-)
 - [Contact 📫](#contact-)
-- [Suivez-Moi 🌍](#suivez-moi-)
+- [Follow Me 🌍](#follow-me-)
 
+## About Me 📚
 
-## À Propos de Moi 📚
+- 🎓 Master’s student in Computer Science at the [University of Bordeaux](https://www.u-bordeaux.fr/).
+- 💻 Passionate about web development, mobile applications, and software engineering.
+- 🌐 Constantly exploring new technologies to push the boundaries of what’s possible in web and mobile experiences.
 
-- 🎓 Étudiant en informatique à l'[Université de Limoges](https://www.unilim.fr/).
-- 💻 Développement web, mobile et logiciel.
-- 🌐 J'adore explorer les technologies et créer des choses sur le web.
+## Technologies Used 💻
 
-## Technologies utilisées 💻
+I have experience working with a wide range of technologies, from front-end to back-end, as well as development tools and environments:
 
-Voici quelques-unes des technologies que j'ai utilisées dans mes projets ou au cours de mon parcours :
+- **Operating Systems:**  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&logoColor=white)
 
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![AdobeCommerce](https://img.shields.io/badge/Adobe%20Commerce-FF0000?style=flat&logo=adobe&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- **Front-End Development:**  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  Proficiency in building responsive, dynamic websites using modern web standards.
 
+- **Back-End Development:**  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+  Strong experience in developing robust back-end architectures for web applications.
 
-## Mes Différents Projets 🚀
+- **Version Control & Collaboration:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+  Expertise in managing and collaborating on code using Git and GitHub for version control.
 
-J'ai travaillé sur plusieurs projets intéressants. Voici quelques-uns d'entre eux :
+- **Containerization and Deployment:**  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+  Experience with containerizing applications for seamless deployment and scaling.
 
-- [Portfolio](https://www.maximecapel.com) : Un aperçu de mon travail et de mes compétences. ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- [symfony-portfolio](https://github.com/fortyup/symfony-portfolio) : Un portfolio construit pour un photographe. ![Symfony 6](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
-- [symfony-osu](https://github.com/fortyup/symfony-osu) : Un site web basé sur le forum de osu! ![Symfony 6](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
-- [pokemon-tcg](https://github.com/fortyup/pokemon-tcg) : Un site web gérer sa collection de cartes Pokémon ![Laravel 8](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+- **Databases:**  
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=flat&logo=mongodb&logoColor=white)  
+  Proficient in managing both SQL and NoSQL databases.
 
-## Autres contributions 🌐
+## Projects 🚀
 
-J'ai aussi contribué à des projets tel que :
+Throughout my academic journey and personal development, I have worked on several projects, including:
 
-- [ToDoList](https://github.com/Pablo-Rio/MyTodoList) : Une application web de gestion de tâches ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+- **[Personal Portfolio](https://www.maximecapel.com):**  
+  A personal website showcasing my skills and past work.  
+  Tech Stack: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## Compétences Acquises 🧠
+- **[Symfony Portfolio](https://github.com/fortyup/symfony-portfolio):**  
+  A professional portfolio website developed for a photographer, built using Symfony 6.  
+  Tech Stack: ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
 
-Au cours de mon parcours en BUT informatique, j'ai développé un ensemble de compétences techniques et professionnelles significatives, alliant à la fois des "hard skills" et des "soft skills". Voici un aperçu de mes principales compétences :
+- **[Pokemon TCG Collection](https://github.com/fortyup/pokemon-tcg):**  
+  A web application designed to help users manage their Pokémon card collections.  
+  Tech Stack: ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-### **Développement Web**
+## Contributions 🌐
 
-- **Conception et Développement :** Création de sites web dynamiques et responsifs.
-- **Langages Front-End :** Maîtrise avancée d'HTML, CSS, JavaScript.
-- **Frameworks Front-End :** Expérience pratique avec React.js.
-- **Développement Back-End :** Compétences en Node.js, Symfony, et Laravel.
-- **Base de Données :** Intégration de bases de données SQL.
-- **E-commerce :** Mise en œuvre de fonctionnalités e-commerce avec Adobe Commerce.
+I have also contributed to several collaborative projects, enhancing both my technical skills and teamwork experience:
 
-### **Gestion de Projet et Collaboration**
+- **[ToDoList](https://github.com/Pablo-Rio/MyTodoList):**  
+  A task management application built with Kotlin, allowing users to organize and track their daily tasks efficiently.  
+  Tech Stack: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
-- **Gestion de Version avec Git :** Utilisation efficace de Git pour le versionnage de code.
-- **Travail en Équipe :** Collaboration active au sein d'équipes de développement.
+## GitHub Stats 📈
 
-### **Développement Mobile**
-
-- **Création d'Applications Mobiles :** Développement d'applications mobiles avec Kotlin et Xamarin.
-
-### **Outils et Environnements**
-
-- **Conteneurisation avec Docker :** Utilisation de Docker pour la gestion efficace de conteneurs.
-- **Polyvalence des Environnements :** Expérience avec des environnements de développement sous Linux, Windows et MacOS.
-
-### **Méthodologies de Travail**
-
-- **Méthodologies Agiles :** Pratique des méthodologies agiles pour une gestion de projet efficace.
-- **Bonnes Pratiques de Codage :** Forte orientation vers les bonnes pratiques de codage.
-
-Ces compétences techniques et professionnelles me permettent d'être un atout dans divers contextes :
-
-- **Développement de Sites Web Professionnels :** Je suis capable de créer des sites web professionnels, en utilisant des technologies modernes et en suivant les bonnes pratiques de codage.
-
-- **Projets de Gestion Collaborative :** Mon experience avec les méthodologies agiles et les outils de gestion de version me permet de contribuer efficacement à des projets de développement collaboratif.
-
-- **Création d'Applications Mobiles Innovantes :** Mes compétences en développement mobile me permettent de créer des applications mobiles innovantes, en utilisant des technologies modernes et en suivant les bonnes pratiques de codage.
-
-- **Mise en Place de Solutions Conteneurisées :** L'utilisation de Docker me permet de mettre en place des solutions conteneurisées efficaces, favorisant la portabilité et la scalabilité.
-
-- **Adaptabilité à Divers Environnements de Développement :** Ma polyvalence avec différents environnements de développement me permet de m'adapter rapidement à des contextes variés, qu'il s'agisse de systèmes d'exploitation ou de stacks technologiques spécifiques.
-
-- **Gestion Agile de Projets Informatiques :** En suivant les méthodologies agiles, je connais les enjeux et les bonnes pratiques de la gestion de projets informatiques.
-
-Ces compétences font de moi un développeur web polyvalent, capable de s'adapter à divers contextes et de contribuer efficacement à des projets de développement web.
-
-## Mes Statistiques GitHub 📈
+Here’s a snapshot of my GitHub activity and contributions:
 
 ![fortyup's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortyup&show_icons=true&theme=auto)
 
 ## Contact 📫
 
-Si vous souhaitez discuter de projets, de collaborations ou simplement échanger des idées, n'hésitez pas à me contacter.
+I’m always open to discussing new projects, collaborations, or simply exchanging ideas. Feel free to get in touch:
 
-## Suivez-Moi 🌍
+- **[LinkedIn](https://www.linkedin.com/in/maximecapel/)**
+- **[GitHub](https://github.com/fortyup)**
 
-Restez à jour avec mes derniers projets et découvertes en me suivant sur :
-
-- [LinkedIn](https://www.linkedin.com/in/maximecapel/)
-- [GitHub](https://github.com/fortyup)
-
-Merci de visiter mon profil GitHub. J'espère que vous y trouverez quelque chose d'inspirant !
+Thank you for visiting my profile!
