@@ -1,84 +1,107 @@
-# Hi, I'm fortyup! 👋
+<!-- En-tête animé personnalisé -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6B46C1&center=true&vCenter=true&width=460&lines=Hi+👋,+I'm+Maxime+Capel;Full-Stack+Developer+🚀;Master's+in+CS+@+Bordeaux+🎓;Open-Source+Enthusiast+❤️" alt="Animated Header" />
+</div>
 
-Welcome to my GitHub profile! I am currently pursuing a Master's degree in Computer Science at the [University of Bordeaux](https://www.u-bordeaux.fr/), with a strong passion for web development, mobile applications, and modern software engineering. Below, you’ll find a curated list of my projects, contributions, and skills. Feel free to explore and reach out for collaboration opportunities.
+---
 
-## Table of Contents
-- [About Me 📚](#about-me-)
-- [Technologies Used 💻](#technologies-used-)
-- [Projects 🚀](#projects-)
-- [Contributions 🌐](#contributions-)
-- [GitHub Stats 📈](#github-stats-)
-- [Contact 📫](#contact-)
-- [Follow Me 🌍](#follow-me-)
+<!-- Badges dynamiques -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fortyup&label=Profile+Views&color=6B46C1&style=flat" alt="Profile views" />
+  <a href="https://github.com/fortyup?tab=followers">
+    <img src="https://img.shields.io/github/followers/fortyup?label=Followers&style=social&color=6B46C1" alt="GitHub Followers"/>
+  </a>
+  <a href="https://linkedin.com/in/maximecapel">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-## About Me 📚
+---
 
-- 🎓 Master’s student in Computer Science at the [University of Bordeaux](https://www.u-bordeaux.fr/).
-- 💻 Passionate about web development, mobile applications, and software engineering.
-- 🌐 Constantly exploring new technologies to push the boundaries of what’s possible in web and mobile experiences.
+### 🛠️ Tech Stack
 
-## Technologies Used 💻
+<table align="center">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40"/>
+      <br>Symfony
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+      <br>Laravel
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+      <br>Docker
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+      <br>Kotlin
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
 
-I have experience working with a wide range of technologies, from front-end to back-end, as well as development tools and environments:
+---
 
-- **Operating Systems:**  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&logoColor=white)
+### 📊 GitHub Analytics
 
-- **Front-End Development:**  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  Proficiency in building responsive, dynamic websites using modern web standards.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fortyup&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortyup&layout=compact&langs_count=8&theme=radical&hide=procfile"/>
+</div>
 
-- **Back-End Development:**  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
-  Strong experience in developing robust back-end architectures for web applications.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fortyup&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</div>
 
-- **Version Control & Collaboration:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-  Expertise in managing and collaborating on code using Git and GitHub for version control.
+---
 
-- **Containerization and Deployment:**  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-  Experience with containerizing applications for seamless deployment and scaling.
+### 🏆 GitHub Trophies
 
-- **Databases:**  
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=flat&logo=mongodb&logoColor=white)  
-  Proficient in managing both SQL and NoSQL databases.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fortyup&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
 
-## Projects 🚀
+---
 
-Throughout my academic journey and personal development, I have worked on several projects, including:
+### 🚀 Featured Projects
 
-- **[Personal Portfolio](https://www.maximecapel.com):**  
-  A personal website showcasing my skills and past work.  
-  Tech Stack: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<div align="center">
+  <a href="https://github.com/fortyup/symfony-portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fortyup&repo=symfony-portfolio&theme=vision-friendly-dark" />
+  </a>
+  <a href="https://github.com/fortyup/pokemon-tcg">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fortyup&repo=pokemon-tcg&theme=vision-friendly-dark" />
+  </a>
+  <a href="https://github.com/Pablo-Rio/MyTodoList">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pablo-Rio&repo=MyTodoList&theme=vision-friendly-dark" />
+  </a>
+</div>
 
-- **[Symfony Portfolio](https://github.com/fortyup/symfony-portfolio):**  
-  A professional portfolio website developed for a photographer, built using Symfony 6.  
-  Tech Stack: ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+---
 
-- **[Pokemon TCG Collection](https://github.com/fortyup/pokemon-tcg):**  
-  A web application designed to help users manage their Pokémon card collections.  
-  Tech Stack: ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+### 📬 Let's Connect
 
-## Contributions 🌐
+<p align="center">
+  <a href="https://www.linkedin.com/in/maximecapel/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.maximecapel.com">
+    <img src="https://img.shields.io/badge/Portfolio-6B46C1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:maxime.capel@u-bordeaux.fr">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-I have also contributed to several collaborative projects, enhancing both my technical skills and teamwork experience:
+---
 
-- **[ToDoList](https://github.com/Pablo-Rio/MyTodoList):**  
-  A task management application built with Kotlin, allowing users to organize and track their daily tasks efficiently.  
-  Tech Stack: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+</div>
 
-## GitHub Stats 📈
-
-Here’s a snapshot of my GitHub activity and contributions:
-
-![fortyup's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortyup&show_icons=true&theme=auto)
-
-## Contact 📫
-
-I’m always open to discussing new projects, collaborations, or simply exchanging ideas. Feel free to get in touch:
-
-- **[LinkedIn](https://www.linkedin.com/in/maximecapel/)**
-- **[GitHub](https://github.com/fortyup)**
-
-Thank you for visiting my profile!
+![Snake animation](https://github.com/fortyup/fortyup/blob/output/github-contribution-grid-snake.svg)
