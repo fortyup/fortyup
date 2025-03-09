@@ -27,7 +27,7 @@
       <br>Symfony
     </td>
     <td align="center" width="20%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
       <br>Laravel
     </td>
     <td align="center" width="20%">
@@ -71,8 +71,8 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/fortyup/symfony-portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fortyup&repo=symfony-portfolio&theme=vision-friendly-dark" />
+  <a href="https://github.com/fortyup/CineFlixAPI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fortyup&repo=CineFlixAPI&theme=vision-friendly-dark" />
   </a>
   <a href="https://github.com/fortyup/pokemon-tcg">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fortyup&repo=pokemon-tcg&theme=vision-friendly-dark" />
@@ -90,8 +90,8 @@
   <a href="https://www.linkedin.com/in/maximecapel/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.maximecapel.com">
-    <img src="https://img.shields.io/badge/Portfolio-6B46C1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://x.com/fortyup_">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:maxime.capel@u-bordeaux.fr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
