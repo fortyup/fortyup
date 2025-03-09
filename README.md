@@ -1,6 +1,6 @@
 <!-- En-tête animé personnalisé -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6B46C1&center=true&vCenter=true&width=460&lines=Hi+👋,+I'm+Maxime+Capel;Full-Stack+Developer+🚀;Master's+in+CS+@+Bordeaux+🎓;Open-Source+Enthusiast+❤️" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6B46C1&center=true&vCenter=true&width=460&lines=Hi+👋,+I'm+Forty+Up;Full-Stack+Developer+🚀;Master's+in+CS+@+Bordeaux+🎓" alt="Animated Header" />
 </div>
 
 ---
@@ -23,24 +23,24 @@
 <table align="center">
   <tr>
     <td align="center" width="20%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40"/>
-      <br>Symfony
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+      <br>JavaScript
     </td>
     <td align="center" width="20%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
-      <br>Laravel
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+      <br>Python
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+      <br>C++
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+      <br>Git
     </td>
     <td align="center" width="20%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
       <br>Docker
-    </td>
-    <td align="center" width="20%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-      <br>Kotlin
-    </td>
-    <td align="center" width="20%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-      <br>MongoDB
     </td>
   </tr>
 </table>
@@ -103,5 +103,3 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
 </div>
-
-![Snake animation](https://github.com/fortyup/fortyup/blob/output/github-contribution-grid-snake.svg)
