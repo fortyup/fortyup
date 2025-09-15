@@ -1,6 +1,6 @@
 <!-- En-tête animé personnalisé -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6B46C1&center=true&vCenter=true&width=460&lines=Hi+👋,+I'm+Forty+Up;Full-Stack+Developer+🚀;Master's+in+CS+@+Bordeaux+🎓" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6B46C1&center=true&vCenter=true&width=460&lines=Hi+👋,+I'm+Forty+Up;Full-Stack+Developer+🚀;Master's+in+CS+@+Bordeaux+🎓" alt="Animated Header" />
 </div>
 
 ---
