@@ -39,9 +39,10 @@
       <br>Git
     </td>
     <td align="center" width="20%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-      <br>Docker
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
+      <br>Unity
     </td>
+
   </tr>
 </table>
 
