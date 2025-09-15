@@ -77,8 +77,8 @@
   <a href="https://github.com/fortyup/pokemon-tcg">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fortyup&repo=pokemon-tcg&theme=vision-friendly-dark" />
   </a>
-  <a href="https://github.com/Pablo-Rio/MyTodoList">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pablo-Rio&repo=MyTodoList&theme=vision-friendly-dark" />
+  <a href="https://github.com/fortyup/roll-a-ball">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fortyup&repo=roll-a-ball&theme=vision-friendly-dark" />
   </a>
 </div>
 
