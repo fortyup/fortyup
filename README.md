@@ -6,7 +6,7 @@ I focus on 3D graphics, image synthesis, and rendering techniques. I also have a
 
 My main tech stack is C++, Python, and JavaScript. I work extensively with OpenGL for 3D rendering and image synthesis. I build full-stack web applications with modern frameworks and REST APIs, and develop games with Unity.
 
-I've got several projects on my GitHub, with my favorites being [PokeVault](https://github.com/fortyup/pokevault), [Hexcore](https://github.com/fortyup/hexcore), and [Lumix](https://github.com/fortyup/lumix).
+I've got several projects on my GitHub, with my favorites being [DSDASR](https://github.com/fortyup/dsdasr), [PokeVault](https://github.com/fortyup/pokevault), [Lumix](https://github.com/fortyup/lumix), and [Hexcore](https://github.com/fortyup/hexcore).
 
 Currently working on advanced image synthesis projects and real-time rendering techniques. I'm exploring topics like virtual and augmented reality, geometry processing, and parallel programming for graphics applications.
 
@@ -16,4 +16,4 @@ If you want to connect, reach out on [LinkedIn](https://linkedin.com/in/maximeca
 
 ---
 
-💼 Open to internships and opportunities in computer graphics, image synthesis, VR/AR, and software development.
+Open to opportunities in computer graphics, image synthesis, VR/AR, and software development.
